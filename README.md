@@ -1,2 +1,3 @@
 # tetris
-base on C++ and std output
+基于C++和标准输出的俄罗斯方块
+当前该代码仅能运行于linux系统，后续优化
